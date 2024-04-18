@@ -1,5 +1,3 @@
-
- 
 // Get references to the input box and list container
 
 const inputBox = document.getElementById("input-box");
